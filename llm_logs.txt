@@ -1,0 +1,2132 @@
+C:\Users\admin\Desktop\Diploma>python llm_extractor.py
+2026-09-22 23:54:14,323 INFO Запуск з qwen2.5:7b...
+2026-09-22 23:54:19,522 INFO Модель qwen2.5:7b підключена.
+2026-09-22 23:54:19,523 INFO Пропущено вже оброблених: 0
+
+ 1: EV-75460e3143 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0010",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 2: EV-482e53edbe (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "Укрзалізниця",
+  "target_type": "невідомо",
+  "sector": "transport",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0140",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 3: EV-630b3f5d25 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "phishing",
+  "event_type": "information_operation",
+  "threat_actor": "UAC-0133",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інформаційна операція (information_operation); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 4: EV-3317e58083 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "Individual/Company",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "Tropical Scorpion (Cuba Ransomware)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 5: EV-697d6c9ed3 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "Corporate network",
+  "sector": "unknown",
+  "attack_vector": "other",
+  "event_type": "data_exfiltration",
+  "threat_actor": "UAC-0118 (likely associated with FRwL group)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 6: EV-b04676a1a1 (CERT-UA)...
+НЕ ІНЦИДЕНТ (авто-фільтр) — відкинуто
+
+ 7: EV-c8cc0ce44c (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0142, UAC-0132 (CERT-UA#5509)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 8: EV-253b1f5ac6 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0114 (Winter Vivern)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 9: EV-095735f072 (CERT-UA)...
+НЕ ІНЦИДЕНТ (авто-фільтр) — відкинуто
+
+ 10: EV-61c0e7efe6 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "Укрінформ",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "ddos",
+  "threat_actor": "UAC-0082 (Sandworm)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 2,
+  "impact_calculation_logic": "Тип інциденту: DDoS (ddos); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 11: EV-594c139244 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "nevіdомо",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 12: EV-eef9054167 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0096",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 13: EV-7511e71903 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0050, UAC-0096",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 14: EV-53863e9f97 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0056",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 15: EV-f04860b200 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "комунікальне підприємство",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "information_operation",
+  "threat_actor": "UAC-0145",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інформаційна операція (information_operation); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 16: EV-f87d288982 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "other",
+  "threat_actor": "APT28",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 17: EV-f23fb3c4cf (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "other",
+  "threat_actor": "APT28",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 18: EV-399469f0dd (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "data_destruction",
+  "threat_actor": "UAC-0165 (ймовірно, Sandworm)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 7,
+  "impact_calculation_logic": "Тип інциденту: деструктивна діяльність (data_destruction); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 19: EV-ce6953a1dc (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "фінанси",
+  "sector": "finance",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0006",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 20: EV-18b74a7a70 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0099",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 21: EV-18fc480bef (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "UAC (Український світовий конґрес)",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0168",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 22: EV-1af53efde6 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "other",
+  "event_type": "other",
+  "threat_actor": "UAC-0154",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 23: EV-b33f0448e4 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0063",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 24: EV-1b50e4447b (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "компанія",
+  "sector": "telecom",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0006",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "успішне інфіковання близько 1100 ЕОМ",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 25: EV-55331d3323 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "державні органи України",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "other",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 26: EV-b63fb153f4 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "Тківський обслуговування",
+  "target_type": "невідомо",
+  "sector": "finance",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0006",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 27: EV-828db6b409 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0057 (GhostWriter)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 28: EV-b1130185df (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "UKR.NET",
+  "target_type": "телекомунікаційний оператор",
+  "sector": "telecom",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "UAC-0102",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 29: EV-c6a9b1db0a (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "vulnerability_exploitation",
+  "event_type": "malware",
+  "threat_actor": "APT28",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 30: EV-92bb356c9b (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "information_operation",
+  "threat_actor": "UAC-0057",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інформаційна операція (information_operation); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 31: EV-6446ed9e2e (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "telecom",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 32: EV-31a5db47f9 (CERT-UA)...
+НЕ ІНЦИДЕНТ (авто-фільтр) — відкинуто
+
+ 33: EV-b779610e48 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "телефонізаційний оператор",
+  "sector": "telecom",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0006",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 34: EV-2121b820bb (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "data_exfiltration",
+  "threat_actor": "Turla (UAC-0024, UAC-0003)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 35: EV-137f51a574 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "finance",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0006",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 36: EV-67f58f7479 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "diplomatic institution",
+  "sector": "unknown",
+  "attack_vector": "other",
+  "event_type": "data_exfiltration",
+  "threat_actor": "APT28 (UAC-0028)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 2,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 37: EV-f3fdc2eda9 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "UAC-0173",
+  "target_type": "cyber threat actor",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "BlackNotary",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 38: EV-a556dc31ec (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "vulnerability_exploitation",
+  "event_type": "malware",
+  "threat_actor": "UAC-0057",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 39: EV-039de7c28e (CERT-UA)...
+НЕ ІНЦИДЕНТ (авто-фільтр) — відкинуто
+
+ 40: EV-aecb6f0f3d (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "телекомунікаційний оператор",
+  "sector": "telecom",
+  "attack_vector": "vulnerability_exploitation",
+  "event_type": "data_destruction",
+  "threat_actor": "зловмисник",
+  "source_reliability_score": 5,
+  "technical_detail_level": 2,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: деструктивна діяльність (data_destruction); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 41: EV-ef41094baa (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "UAC-0170",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 42: EV-6599bf902d (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "government",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 43: EV-c6b69717fe (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 44: EV-4936595bbd (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "JokerDPR",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 45: EV-362a322241 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "RemcosRAT servers",
+  "target_type": "servers",
+  "sector": "telecom",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 46: EV-f7ffe38893 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "data_exfiltration",
+  "threat_actor": "APT28",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 47: EV-bc4abc5b1d (CERT-UA)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить рекомендації щодо встановлення двоетапної автентифікації, а не опис конкретної кіберподії.)
+
+ 48: EV-bde2744b3e (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 49: EV-ef38cd3129 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "телефонізаційний оператор",
+  "sector": "telecom",
+  "attack_vector": "malware",
+  "event_type": "ddos",
+  "threat_actor": "DIRTYMOE (PURPLEFOX)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 2,
+  "impact_calculation_logic": "Тип інциденту: DDoS (ddos); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 50: EV-0a60a19293 (CERT-UA)...
+НЕ ІНЦИДЕНТ — відкинуто (Загальне повідомлення про кібербезпеку, немає опису конкретної атаки)
+
+ 51: EV-b12ccf0be1 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "Сил оборони України",
+  "target_type": "військове формування",
+  "sector": "defense",
+  "attack_vector": "vulnerability_exploitation",
+  "event_type": "malware",
+  "threat_actor": "UAC-0149",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 52: EV-399d410dcf (CERT-UA)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить оголошення про семінар, а не опис конкретної кібератаки.)
+
+ 53: EV-b3a4ac6a40 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0200",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 54: EV-5cb9103822 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "військове формування",
+  "sector": "defense",
+  "attack_vector": "phishing",
+  "event_type": "data_exfiltration",
+  "threat_actor": "UAC-0210",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 55: EV-45dfe1e181 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "Military personnel",
+  "target_type": "Individuals",
+  "sector": "unknown",
+  "attack_vector": "other",
+  "event_type": "data_exfiltration",
+  "threat_actor": "UAC-0184",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 56: EV-59d5df8178 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "ЕОМ представника Сил оборони України",
+  "target_type": "військове формування",
+  "sector": "defense",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0149",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 57: EV-62aaef7aeb (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "индустріальна установа",
+  "sector": "industrial",
+  "attack_vector": "vulnerability_exploitation",
+  "event_type": "data_destruction",
+  "threat_actor": "UAC-0133 (Sandworm)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 7,
+  "impact_calculation_logic": "Тип інциденту: деструктивна діяльність (data_destruction); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 58: EV-dc5c0739d4 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "UAC-0195",
+  "source_reliability_score": 5,
+  "technical_detail_level": 2,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 59: EV-d42c1c4293 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "Сили оборони України",
+  "target_type": "військове формування",
+  "sector": "defense",
+  "attack_vector": "malware",
+  "event_type": "data_exfiltration",
+  "threat_actor": "UAC-0020 (Vermin)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 60: EV-6dbc1ce296 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0006",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 61: EV-b21b7c957b (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "other",
+  "threat_actor": "UAC-0188",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 62: EV-b8459a203d (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "UAC-0195",
+  "source_reliability_score": 5,
+  "technical_detail_level": 2,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 63: EV-d42a08850f (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "військове формування",
+  "sector": "defense",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0184",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 64: EV-6814eb0821 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "industrial",
+  "attack_vector": "other",
+  "event_type": "other",
+  "threat_actor": "UNC4221 (UAC-0185)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 65: EV-286ffabac5 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "UAC-0180",
+  "target_type": "EOM of defense industry employees and Ukrainian Armed Forces personnel",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0180",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 66: EV-549ea8d0c3 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "науково-дослідні установи",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "УГ ГШ ЗС РФ (АПТ28)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 67: EV-800bbbdd34 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "UKR.NET",
+  "target_type": "телефонізаційний оператор",
+  "sector": "telecom",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "UAC-0102",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо, але є спроби викрадення автентифікаційних даних",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 68: EV-6601ea191a (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "finance",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0057",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 69: EV-b88b90b0e2 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "ukraer",
+  "target_type": "domain",
+  "sector": "unknown",
+  "attack_vector": "other",
+  "event_type": "data_exfiltration",
+  "threat_actor": "UAC-0020",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 70: EV-4bb87637f2 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "фінанси",
+  "sector": "finance",
+  "attack_vector": "malware",
+  "event_type": "information_operation",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інформаційна операція (information_operation); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 71: EV-aa3cb57973 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "невідомо",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 72: EV-e18780ce3e (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "ua-gov[.]cloud",
+  "target_type": "Domain Name",
+  "sector": "industrial",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0215",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 73: EV-7fb6f7b4da (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "phishing",
+  "event_type": "other",
+  "threat_actor": "UAC-0218",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 74: EV-c059183c46 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "Incident Report",
+  "sector": "unknown",
+  "attack_vector": "other",
+  "event_type": "other",
+  "threat_actor": "APT28 (UAC-0001)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 75: EV-be48b683d8 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "Banking Institution",
+  "target_type": "невідомо",
+  "sector": "finance",
+  "attack_vector": "other",
+  "event_type": "other",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 76: EV-beb0a91940 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "військове формування",
+  "sector": "defense",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0050",
+  "source_reliability_score": 5,
+  "technical_detail_level": 2,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 77: EV-7bc3ddd45a (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0198",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 78: EV-62eaa5f6f7 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "other",
+  "threat_actor": "UAC-0099",
+  "source_reliability_score": 5,
+  "technical_detail_level": 2,
+  "confirmed_impact": "невідомо",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інше (other); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 79: EV-3cbb40af8d (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "компанія",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0002 (APT44 aka Sandworm)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "незазначено",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 80: EV-9c114b2a33 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "Network",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "WRECKSTEEL",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 81: EV-9940035eb9 (CERT-UA)...
+НЕ ІНЦИДЕНТ — відкинуто (Заповітна інформація без опису конкретної атаки)
+
+ 82: EV-a47d57d407 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "постачальник рішень АСУТП",
+  "sector": "industrial",
+  "attack_vector": "vulnerability_exploitation",
+  "event_type": "data_exfiltration",
+  "threat_actor": "UAC-0212",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 83: EV-9ba4e91f06 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "Нотаріат України",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "зловмисники",
+  "source_reliability_score": 5,
+  "technical_detail_level": 2,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 84: EV-b86ac91411 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "оборонно-промисловий комплекс",
+  "sector": "industrial",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0200",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 85: EV-657dbf7e35 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "військове формування",
+  "sector": "defense",
+  "attack_vector": "malware",
+  "event_type": "ransomware",
+  "threat_actor": "UAC-0099",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 6,
+  "impact_calculation_logic": "Тип інциденту: програмне вимагання (ransomware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 86: EV-8a42ea0554 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "government",
+  "sector": "industrial",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0226, GIFTEDCROOK",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 87: EV-a973ea52f7 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "telecom",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0001 (APT28)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 88: EV-df8242343c (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0001",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 89: EV-6a3ec52daf (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "unknown",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0184",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "витік або несанкціонований доступ до даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 90: EV-e0ada69f46 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "військове формування",
+  "sector": "defense",
+  "attack_vector": "phishing",
+  "event_type": "data_exfiltration",
+  "threat_actor": "UAC-0239",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 4,
+  "impact_calculation_logic": "Тип інциденту: витік даних (data_exfiltration); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 91: EV-6f44b1887c (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "навчальний заклад",
+  "sector": "unknown",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0241",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 92: EV-bb5bccbc81 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "vulnerability_exploitation",
+  "event_type": "malware",
+  "threat_actor": "UAC-0001 (APT28)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 93: EV-4779ae17fc (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "malware",
+  "event_type": "malware",
+  "threat_actor": "UAC-0252",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 94: EV-cfbf11aebd (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "ransomware",
+  "threat_actor": "UAC-0255",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 6,
+  "impact_calculation_logic": "Тип інциденту: програмне вимагання (ransomware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 95: EV-be2fd574c8 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "медіа",
+  "sector": "media",
+  "attack_vector": "phishing",
+  "event_type": "information_operation",
+  "threat_actor": "UAC-0247 (UAC-0244)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інформаційна операція (information_operation); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 96: EV-e5437ff296 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0057 (UNC1151)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 97: EV-7696b9da66 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить лише рекомендації з безпеки і не описує конкретну атаку.)
+
+ 98: EV-a45fe86c46 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні рекомендації та не описує конкретну нову атаку.)
+
+ 99: EV-592c62298b (СБУ)...
+НЕ ІНЦИДЕНТ — відкинуто (Це організаційне повідомлення про розслідування, а не опис конкретної нової кібератаки.)
+
+ 100: EV-e4e8adbada (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить рекомендації та інформацію про фішинговий сайт, але немає опису конкретної нової атаки.)
+
+ 101: EV-a659eb40b0 (Кіберполіція)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "nevdo_mo",
+  "source_reliability_score": 5,
+  "technical_detail_level": 1,
+  "confirmed_impact": "попри спроби отримання персональних та банківських даних громадян, конкретних наслідків не підтверджено",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 102: EV-9f29505814 (Кіберполіція)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "телефонізаційний оператор",
+  "sector": "telecom",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "невідомо",
+  "source_reliability_score": 5,
+  "technical_detail_level": 1,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 103: EV-66527b2340 (СБУ)...
+НЕ ІНЦИДЕНТ — відкинуто (Загальне повідомлення про кібербезпеку без опису конкретної атаки)
+
+ 104: EV-3e69191d0e (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить опис кібертурніру, а не конкретної хакерської атаки.)
+
+ 105: EV-ebe7cc36bb (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні рекомендації та не описує конкретну нову атаку.)
+
+ 106: EV-34b218a1b8 (СБУ)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить організаційне повідомлення без опису конкретної нової атаки.)
+
+ 107: EV-cc137dd88e (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про вручення прапорів, а не опис конкретної кіберподії.)
+
+ 108: EV-8b8cc445a0 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні рекомендації без опису конкретної нової атаки.)
+
+ 109: EV-433ed19098 (СБУ)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "невідомо",
+  "sector": "finance",
+  "attack_vector": "other",
+  "event_type": "ddos",
+  "threat_actor": "невідомо",
+  "source_reliability_score": 5,
+  "technical_detail_level": 1,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: DDoS (ddos); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 110: EV-6edab5947f (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить інформацію про міжнародну співпрацю та координацію допомоги, але не описує конкретну кібератаку.)
+
+ 111: EV-61c3568572 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні інформаційні повідомлення про системне оцінювання кіберзахисту, а не конкретну хакерську атаку.)
+
+ 112: EV-b2c47a25be (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить опис фішингової кампанії, а не кібератаки.)
+
+ 113: EV-8fb2decd90 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить лише організаційне повідомлення про науково-практичну конференцію, без опису конкретної хакерської атаки.)
+
+ 114: EV-0b37c62557 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить організаційне повідомлення про зустріч та підтримку, а не опис конкретної кібератаки.)
+
+ 115: EV-93a1587b14 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить лише рекомендації та огляд, без опису конкретної нової атаки.)
+
+ 116: EV-9e9819b545 (СБУ)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт не містить конкретної опису кібератаки, але виклад про масові атаки на цивільні об’єкти.)
+
+ 117: EV-229d833325 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про навчання, а не опис конкретної кіберподії.)
+
+ 118: EV-acea72b01d (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить лише організаційне повідомлення про тренінги, а не опис конкретної хакерської атаки.)
+
+ 119: EV-3a62bbf727 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст не містить опису конкретної хакерської атаки, кампанії шкідливого ПЗ чи інших кіберподій.)
+
+ 120: EV-137b1e5de4 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить організаційне повідомлення та рекомендації, а не опис конкретної кіберподії.)
+
+ 121: EV-fd3111f485 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить організаційне повідомлення про документ, а не опис конкретної кіберподії.)
+
+ 122: EV-eefb61da57 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить лише організаційне повідомлення про тренінг, без опису конкретної нової атаки.)
+
+ 123: EV-3d4046f746 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Це організаційне повідомлення про навчання, а не опис конкретної кіберподії.)
+
+ 124: EV-82dbc91526 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить рекомендації з безпеки, а не опис конкретної кіберподії.)
+
+ 125: EV-44d583c907 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні рекомендації з кібербезпеки, а не опис конкретної хакерської атаки.)
+
+ 126: EV-3a250e605a (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить рекомендації з кібербезпеки, але немає опису конкретної хакерської атаки.)
+
+ 127: EV-c5fb997bde (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст не містить опису конкретної хакерської атаки, кампанії шкідливого ПЗ, несанкціонованого доступу або експлуатації вразливості.)
+
+ 128: EV-66e0d8c04c (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення без опису конкретної нової атаки.)
+
+ 129: EV-3eb3894fb3 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні рекомендації та аналіз, але не описує конкретну нову кіберподію.)
+
+ 130: EV-d19b6a4a2b (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "other",
+  "event_type": "information_operation",
+  "threat_actor": "UAC-0145, UAC-0002 (Sandworm)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: інформаційна операція (information_operation); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 131: EV-89eab4a4e5 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні рекомендації та інформацію про шахрайські схеми, але не описує конкретну кіберподію.)
+
+ 132: EV-139021c39a (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Загальне повідомлення про правила кібербезпеки, без конкретної атаки.)
+
+ 133: EV-5679273ffe (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить інформацію про навчання державних службовців, але не описує конкретну кібератаку.)
+
+ 134: EV-18c8d552ea (Держспецзв'язку)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "Sandworm",
+  "source_reliability_score": 5,
+  "technical_detail_level": 2,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 135: EV-98a40c06d1 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Загальне рекомендаційне повідомлення без опису конкретної атаки)
+
+ 136: EV-b745221e32 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "комп'ютерний системи",
+  "sector": "unknown",
+  "attack_vector": "vulnerability_exploitation",
+  "event_type": "malware",
+  "threat_actor": "UAC-0099",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "деструктивне знищення файлів та даних",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 137: EV-c83d2817f2 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про діяльність Національного центру оперативно-технічного управління електронними комунікаційними мережами України, а не опис конкретної хакерської атаки.)
+
+ 138: EV-dcc2cbcc0b (Держспецзв'язку)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "UAC-0099",
+  "source_reliability_score": 5,
+  "technical_detail_level": 2,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 139: EV-0e944b52c5 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення, а не опис конкретної хакерської атаки.)
+
+ 140: EV-37fda00fcb (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про оновлення методики управління кіберризиками, а не опис конкретної хакерської атаки.)
+
+ 141: EV-088e296fe7 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про процес авторизації систем, а не опис конкретної кіберподії.)
+
+ 142: EV-868f678fc8 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить організаційне повідомлення, а не опис конкретної кіберподії.)
+
+ 143: EV-44e4fe1f25 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить організаційне повідомлення про нагородження кіберполіцейських, а не опис конкретної кібератаки.)
+
+ 144: EV-a91b827216 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про нові правила кіберзахисту, а не опис конкретної хакерської атаки.)
+
+ 145: EV-407a8aead1 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить інформацію про навчальний захід, а не опис конкретної кібератаки.)
+
+ 146: EV-9d88bda397 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить лише організаційне повідомлення про навчання, без опису конкретної кіберподії.)
+
+ 147: EV-31a40c94ab (Держспецзв'язку)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "школа/університет",
+  "sector": "unknown",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "невідомо",
+  "source_reliability_score": 5,
+  "technical_detail_level": 1,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": false,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: False"
+}
+------------------------------------------------------------
+
+ 148: EV-e5341fc4b2 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить загальні рекомендації, а не опис конкретної кіберподії.)
+
+ 149: EV-b4b699de64 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про затвердження документу, а не опис конкретної кіберподії.)
+
+ 150: EV-0669dc50a2 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про розширення акредитації, а не опис конкретної кіберподії.)
+
+ 151: EV-ec49123934 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Це організаційне повідомлення про новий порядок взаємодії, а не опис конкретної кіберподії.)
+
+ 152: EV-43948c59e7 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст не містить опису конкретної хакерської атаки, кампанії шкідливого ПЗ чи інших кіберподій.)
+
+ 153: EV-b205e16a31 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "ІТ компанія",
+  "sector": "telecom",
+  "attack_vector": "phishing",
+  "event_type": "phishing",
+  "threat_actor": "UAC-0145 (субкластер UAC-0002, також відомий як Sandworm, APT44, Seashell Blizzard)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 1,
+  "impact_calculation_logic": "Тип інциденту: фішинг (phishing); підтверджений вплив: True"
+}
+------------------------------------------------------------
+
+ 154: EV-b805dcba62 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Загальне повідомлення без опису конкретної атаки)
+
+ 155: EV-1427a5039e (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про тренінги з кібергігієни, а не опис конкретної хакерської атаки.)
+
+ 156: EV-f471bcbf10 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить організаційне повідомлення про навчання, а не опис конкретної кібератаки.)
+
+ 157: EV-0d2eb4f883 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Це організаційне повідомлення без опису конкретної нової атаки.)
+
+ 158: EV-38e90b433f (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні рекомендації, а не опис конкретної нової атаки.)
+
+ 159: EV-f9549c172c (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить лише інформацію про візит делегації, без опису конкретної хакерської атаки.)
+
+ 160: EV-eb0b489e80 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить інформацію про навчальну поїздку, але немає опису конкретної кіберподії.)
+
+ 161: EV-d0d1f87513 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить опис проведення кібертабору, а не конкретної хакерської атаки.)
+
+ 162: EV-fecd5cc919 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить загальні рекомендації, а не опис конкретної нової атаки.)
+
+ 163: EV-cd09ba55ac (СБУ)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить загальні повідомлення та не має опису конкретної кібератаки.)
+
+ 164: EV-81c031e71b (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (текст містить рекомендації з кібербезпеки, але немає опису конкретної нової атаки)
+
+ 165: EV-3629bdcda8 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить загальні рекомендації та не має конкретного опису кібератаки.)
+
+ 166: EV-d9b743c082 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить лише попередження про фішингові листи, а не опис конкретної кіберподії.)
+
+ 167: EV-61c121c84f (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про зустріч та підписання Меморандуму, а не опис конкретної кібератаки.)
+
+ 168: EV-d137cf5ec8 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про формування нормативної бази, а не опис конкретної кіберподії.)
+
+ 169: EV-f4f94a024d (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить лише організаційне повідомлення про участь представників Держспецзв'язку в стратегічному воркшопі, без опису конкретної нової атаки.)
+
+ 170: EV-d2015e48b4 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить організаційне повідомлення про спільну роботу з NATO CCDCOE, а не опис конкретної кібератаки.)
+
+ 171: EV-fe65171731 (СБУ)...
+НЕ ІНЦИДЕНТ — відкинуто (Загальне повідомлення про кримінальну діяльність, без опису конкретної кібератаки.)
+
+ 172: EV-1071f9d9fd (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про зустріч між державними органами, а не опис конкретної кібератаки.)
+
+ 173: EV-8bb3d9b451 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про нагородження працівників, а не опис конкретної кібератаки.)
+
+ 174: EV-7a2d776e36 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст не містить опису конкретної хакерської атаки, кампанії шкідливого ПЗ чи інших кіберподій.)
+
+ 175: EV-8340049aa5 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про навчання, а не опис конкретної кібератаки.)
+
+ 176: EV-5183e8ae59 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить загальні рекомендації та інформацію про кібербезпеку, але не описує конкретну нову атаку.)
+
+ 177: EV-10fb0ebab7 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст не містить опису конкретної хакерської атаки, кампанії шкідливого ПЗ чи інших кіберподій.)
+
+ 178: EV-ea26fafc06 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить лише інформацію про командно-штабні навчання та не описує конкретну кібератаку.)
+
+ 179: EV-e16d457c8f (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Це організаційне повідомлення про навчальну програму, без опису конкретної нової атаки.)
+
+ 180: EV-610ee875f0 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить організаційне повідомлення про співпрацю, а не опис конкретної кіберподії.)
+
+ 181: EV-96c017c392 (Держспецзв'язку)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить опис тренування з кіберзахисту, а не конкретної хакерської атаки.)
+
+ 182: EV-a648106bfb (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить інформацію про кримінальну операцію проти скам-спільнот, а не опис конкретної хакерської атаки.)
+
+ 183: EV-2fcb361329 (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст містить лише організаційне повідомлення без опису конкретної нової атаки.)
+
+ 184: EV-5824c8a5fd (Кіберполіція)...
+НЕ ІНЦИДЕНТ — відкинуто (Звіт містить лише рекомендації та попередження, без опису конкретної нової атаки.)
+
+ 185: EV-1f71f73499 (СБУ)...
+НЕ ІНЦИДЕНТ — відкинуто (Текст не містить опису КОНКРЕТНОЇ хакерської атаки, кампанії шкідливого ПЗ, несанкціонованого доступу або експлуатації вразливості.)
+
+ 186: EV-b3c88a4522 (CERT-UA)...
+ДОДАНО:
+{
+  "is_relevant_cyber_incident": true,
+  "target_entity": "невідомо",
+  "target_type": "державна установа",
+  "sector": "government",
+  "attack_vector": "phishing",
+  "event_type": "malware",
+  "threat_actor": "Void Blizzard (Laundry Bear)",
+  "source_reliability_score": 5,
+  "technical_detail_level": 3,
+  "confirmed_impact": "компрометація систем та мережі",
+  "is_impact_confirmed": true,
+  "preliminary_impact_score": 3,
+  "impact_calculation_logic": "Тип інциденту: шкідливе ПЗ (malware); підтверджений вплив: True"
+}
+------------------------------------------------------------
+2026-09-23 03:29:16,960 INFO Готово! Прийнято: 98, відхилено: 88, провалено: 0, пропущено (вже оброблені): 0
+2026-09-23 03:29:16,964 INFO Файли: enriched_events.jsonl / rejected_events.jsonl / failed_events.jsonl
